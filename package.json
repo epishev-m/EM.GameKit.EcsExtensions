@@ -1,0 +1,10 @@
+{
+  "name": "com.em.gamekit.ecs",
+  "displayName": "EM.GameKit.Ecs",
+  "version": "0.0.1",
+  "author": {
+    "name": "Maxim Epishev",
+    "email": "epishev.m@mail.ru"
+  },
+  "type": "library"
+}

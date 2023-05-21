@@ -1,0 +1,20 @@
+{
+    "name": "EM.GameKit.Ecs",
+    "rootNamespace": "",
+    "references": [
+        "EM.Foundation",
+        "Leopotam.EcsLite",
+        "Leopotam.EcsLite.UnityEditor.Runtime",
+        "MessagePack.Annotations",
+        "EM.GameKit"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
