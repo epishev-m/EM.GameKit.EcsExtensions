@@ -1,7 +1,7 @@
+using Leopotam.EcsLite;
+
 namespace EM.GameKit.Ecs
 {
-
-using Leopotam.EcsLite;
 
 public sealed class DebugEcsRunner : EcsRunner
 {
